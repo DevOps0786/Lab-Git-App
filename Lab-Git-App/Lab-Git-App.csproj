@@ -7,4 +7,8 @@
     <RootNamespace>Lab_Git_App</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\workflows.yml" />
+  </ItemGroup>
+
 </Project>
